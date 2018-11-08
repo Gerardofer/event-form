@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Gerardofer/event-form/issues"
   },
-  "homepage": "https://github.com/Gerardofer/event-form#readme"
+  "homepage": "https://github.com/Gerardofer/event-form#readme",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "express": "^4.16.4"
+  }
 }
